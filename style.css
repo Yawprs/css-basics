@@ -1,0 +1,47 @@
+body {
+    background: red;
+}
+
+p {
+    color: sandybrown;
+}
+
+div {
+    border: 1px solid black;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: black; */
+}
+.comments {
+    font-weight: bold;
+    color: #64fe2e;
+}
+
+#dolphin {
+    font-style: italic;
+    color: #0040ff
+}
+
+.first {
+    font-size: 40px;
+}
+
+.second {
+    color: white;
+}
+
+li {
+    text-align: center;
+}
+
+li.why {
+    font-family: sans-serif;
+}
+
+li#not {
+    font-family: serif;
+}
+
+.why {
+    text-decoration: underline;
+}
